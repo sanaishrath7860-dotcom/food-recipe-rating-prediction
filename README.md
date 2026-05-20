@@ -6,10 +6,10 @@ A machine learning project that predicts recipe ratings based on ingredients, pr
 
 | Model | R² Score | RMSE | MAE |
 |-------|----------|------|-----|
-| Linear Regression | baseline | higher | higher |
-| **Random Forest** | **~18–23% better** | lower | lower |
+| Linear Regression | 0.6526 | 0.3336 | 0.2698 |
+| **Random Forest** | **0.7005** | **0.3097** | **0.2474** |
 
-✅ **Random Forest Regressor** achieved the best performance.
+✅ **Random Forest ** achieved ~7.3% better R^2 than Linear Regression.
 
 ## 🛠 Tech Stack
 - Python, Jupyter Notebook
