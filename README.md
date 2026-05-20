@@ -10,7 +10,19 @@ A machine learning project that predicts recipe ratings based on ingredients, pr
 | **Random Forest** | **0.7005** | **0.3097** | **0.2474** |
 
 ✅ **Random Forest ** achieved ~7.3% better R^2 than Linear Regression.
+## 📸 Screenshots
 
+### 📊 EDA Plots
+
+
+![EDA Plots](eda_plots.png)
+
+
+
+### 📈 Model Evaluation
+
+
+![Model Evaluation](model_evaluation.png)
 ## 🛠 Tech Stack
 - Python, Jupyter Notebook
 - scikit-learn (LinearRegression, RandomForestRegressor)
